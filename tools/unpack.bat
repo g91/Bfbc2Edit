@@ -1,0 +1,1 @@
+tools\quickbms.exe -o tools\fbrb.bms unpack\level-00.fbrb unpack\level-00

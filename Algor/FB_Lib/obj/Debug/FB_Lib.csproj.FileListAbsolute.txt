@@ -1,0 +1,5 @@
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\FB_Lib\bin\Debug\FB_Lib.dll
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\FB_Lib\bin\Debug\FB_Lib.pdb
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\FB_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\FB_Lib\obj\Debug\FB_Lib.dll
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\FB_Lib\obj\Debug\FB_Lib.pdb

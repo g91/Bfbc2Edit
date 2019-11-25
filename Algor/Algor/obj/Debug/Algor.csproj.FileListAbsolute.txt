@@ -1,0 +1,7 @@
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\Algor\bin\Debug\Algor.exe
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\Algor\bin\Debug\Algor.pdb
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\Algor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\Algor\obj\Debug\Algor.Properties.Resources.resources
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\Algor\obj\Debug\Algor.csproj.GenerateResource.Cache
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\Algor\obj\Debug\Algor.exe
+C:\Users\kiwidog\Documents\Visual Studio 2008\Projects\Algor\Algor\obj\Debug\Algor.pdb

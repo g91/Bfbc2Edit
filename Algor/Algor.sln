@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algor", "Algor\Algor.csproj", "{F134CD31-F6F1-4734-9E0E-1D36A31F30D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FB_Lib", "FB_Lib\FB_Lib.csproj", "{C80ED708-1B49-4EE9-B1AB-4069A4458C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F134CD31-F6F1-4734-9E0E-1D36A31F30D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F134CD31-F6F1-4734-9E0E-1D36A31F30D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F134CD31-F6F1-4734-9E0E-1D36A31F30D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F134CD31-F6F1-4734-9E0E-1D36A31F30D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80ED708-1B49-4EE9-B1AB-4069A4458C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80ED708-1B49-4EE9-B1AB-4069A4458C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80ED708-1B49-4EE9-B1AB-4069A4458C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80ED708-1B49-4EE9-B1AB-4069A4458C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

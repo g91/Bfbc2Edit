@@ -1,0 +1,8 @@
+C:\Users\domo\Desktop\bfbc2-tools\trunk\bfbc2 edit\bfbc2 edit\bin\Debug\bfbc2 edit.exe
+C:\Users\domo\Desktop\bfbc2-tools\trunk\bfbc2 edit\bfbc2 edit\bin\Debug\bfbc2 edit.pdb
+C:\Users\domo\Desktop\bfbc2-tools\trunk\bfbc2 edit\bfbc2 edit\obj\x86\Debug\bfbc2 edit.csprojResolveAssemblyReference.cache
+C:\Users\domo\Desktop\bfbc2-tools\trunk\bfbc2 edit\bfbc2 edit\obj\x86\Debug\bfbc2_edit.MainForm.resources
+C:\Users\domo\Desktop\bfbc2-tools\trunk\bfbc2 edit\bfbc2 edit\obj\x86\Debug\bfbc2_edit.Properties.Resources.resources
+C:\Users\domo\Desktop\bfbc2-tools\trunk\bfbc2 edit\bfbc2 edit\obj\x86\Debug\bfbc2 edit.csproj.GenerateResource.Cache
+C:\Users\domo\Desktop\bfbc2-tools\trunk\bfbc2 edit\bfbc2 edit\obj\x86\Debug\bfbc2 edit.exe
+C:\Users\domo\Desktop\bfbc2-tools\trunk\bfbc2 edit\bfbc2 edit\obj\x86\Debug\bfbc2 edit.pdb
